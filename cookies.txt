@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.iclickcdn.com	TRUE	/	FALSE	1999999999	__cfduid	d328548e62493b9b8dcb7a48a63da4d4b1612891058
+iclickcdn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.app-valley.vip	TRUE	/	FALSE	1999999999	__cfduid	d775d9f78dfbfd05df81c476e7d1527fd1612891058
+content.app-valley.vip	TRUE	/	FALSE	1999999999	SameSite	Lax
+.theodyssey.dev	TRUE	/	FALSE	1999999999	__cfduid	d62bb09f8513e8aba150a5f242f10ba6a1612891062
+theodyssey.dev	TRUE	/	FALSE	1999999999	SameSite	Lax
+
